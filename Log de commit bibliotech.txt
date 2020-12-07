@@ -1,0 +1,2 @@
+**Log de commit bibliotech**
+ID-Nome autor-Dia da alteração-Descriçao commit- 
