@@ -3,3 +3,6 @@ ID-Nome autor-Dia da alteração-Descriçao commit-
 01 Leonardo Alporges Martins - 05/12/2020 - Adição do arquivo de log de commit
 02 Leonardo Alporges Martins - 07/12/2020 - Adição dos arquivos de modelagem e os prototipos do sistema
 03 Juliano Orlandi Lopes - 09/12/2020 - Adição do PDF corrigido do diagramas de classes, e adição do documento de Controle de versões e V&V.
+04 Lucas dos Santos Carvalho - 09/12/2020 - Adição do documento parte 3 de Gerenciamento de requisitos
+05 Leonardo Alporges Martins - 09/12/2020 - Adicição do topico 4.2 no Documento de Gerenciamento
+
