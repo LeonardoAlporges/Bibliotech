@@ -7,4 +7,4 @@ ID-Nome autor-Dia da alteração-Descriçao commit-
 05 Leonardo Alporges Martins - 09/12/2020 - Adicição do topico 4.2 no Documento de Gerenciamento
 06 Lucas dos Santos Carvalho - 09/12/2020 - Atualização de Documento e inserções da correções do tópico anterior
 07 Alef Biano dos Santos - 09/12/2020 - Adição dos casos de testes do sistema
-
+08 Daniel Oliveira Souza - 09/12/2020 - Adição de registro de reviso e correção diagrama de estado
